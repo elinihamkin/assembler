@@ -4,7 +4,7 @@ An assembler written in the c language that receives a list of names of files wi
 The assembler warns of errors in the assembly code and creates output files in case everything was fine.
 
 ##
-The assember convert the assmbly file to a list of rows, that evrey row is a list of the words in the row. the assembler works by the the two pass idea. After evrey pass of the assember 
+The assember convert the assmbly file to a list of rows, that evrey row is a list of the words in the row. the assembler works by the the two pass idea. After evrey pass of the assember there is a pass of error checker that 
 
 ##
 The assembly is written in ANSI c.
